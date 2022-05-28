@@ -1,8 +1,13 @@
-.img-demo{
-    max-width: 500px;
-    min-width: 200px;
-}
 
+.img-demo{
+    max-width: 600px;
+    min-width: 200px;
+    border-radius:10px;
+}
+.tg-logo{
+    width:50px;
+    max-width: 100%;
+}
 #bot_submit{
     font-size: 2em;
 }
