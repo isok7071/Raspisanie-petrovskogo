@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with https://sitemap-xml.ru-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <url>
+    <loc>https://raspisanie-petrovskogo.vercel.app/</loc>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://raspisanie-petrovskogo.vercel.app/img/Logo.svg</image:loc>
+      <image:caption>telegram-logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://raspisanie-petrovskogo.vercel.app/img/1.gif</image:loc>
+      <image:caption>video</image:caption>
+    </image:image>
+  </url>
+</urlset>
